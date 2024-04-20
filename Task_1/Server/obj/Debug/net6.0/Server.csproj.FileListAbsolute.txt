@@ -1,0 +1,14 @@
+C:\Users\veniamin\Desktop\Internship test\Task_1\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veniamin\Desktop\Internship test\Task_1\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+C:\Users\veniamin\Desktop\Internship test\Task_1\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+C:\Users\veniamin\Desktop\Internship test\Task_1\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\veniamin\Desktop\Internship test\Task_1\Server\bin\Debug\net6.0\Server.exe
+C:\Users\veniamin\Desktop\Internship test\Task_1\Server\bin\Debug\net6.0\Server.deps.json
+C:\Users\veniamin\Desktop\Internship test\Task_1\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+C:\Users\veniamin\Desktop\Internship test\Task_1\Server\bin\Debug\net6.0\Server.dll
+C:\Users\veniamin\Desktop\Internship test\Task_1\Server\bin\Debug\net6.0\Server.pdb
+C:\Users\veniamin\Desktop\Internship test\Task_1\Server\obj\Debug\net6.0\Server.dll
+C:\Users\veniamin\Desktop\Internship test\Task_1\Server\obj\Debug\net6.0\refint\Server.dll
+C:\Users\veniamin\Desktop\Internship test\Task_1\Server\obj\Debug\net6.0\Server.pdb
+C:\Users\veniamin\Desktop\Internship test\Task_1\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+C:\Users\veniamin\Desktop\Internship test\Task_1\Server\obj\Debug\net6.0\ref\Server.dll
